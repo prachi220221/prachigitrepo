@@ -1,4 +1,4 @@
 # prachigitrepo
 my first git repo
 <br>
-Author: Prachi
+Author: Prachi dhumal
